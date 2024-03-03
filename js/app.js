@@ -220,6 +220,7 @@ const util = (() => {
         timer();
 
         confetti({
+            duration: 60000,
             origin: { y: 0.9 },
             zIndex: 1057
         });
