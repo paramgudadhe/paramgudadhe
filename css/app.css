@@ -7,6 +7,8 @@ body {
     font-family: 'Josefin Sans', sans-serif !important;
     padding: 0 !important;
     background-color: #BF5687 !important; /* Newly added color for experiment */
+    background-image: url('bg.jpg');
+    background-blend-mode: overlay;
 }
 
 .font-esthetic {
