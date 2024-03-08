@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+LAST-MODIFIED:20231222T233358Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZNAME:IST
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240308T144538Z
+UID:1709909095727-16708@ical.marudot.com
+DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240502
+SUMMARY:Param & Sanika's Wedding Ceremony
+URL:https://bit.ly/fardapur
+DESCRIPTION:Join us in celebrating the wedding of Param & Sanika! Ceremony: Wednesday\, 1st May 2024\, 6:37 PM\, Fardapur\, Mehkar. Your presence is cherished. RSVP appreciated.
+LOCATION:Fardapur\, Mehkar\, Maharashtra 443301
+END:VEVENT
+END:VCALENDAR
