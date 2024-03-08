@@ -6,7 +6,7 @@ html {
 body {
     font-family: 'Josefin Sans', sans-serif !important;
     padding: 0 !important;
-    background-color: #BF5687 !important; /* Newly added color for experiment */
+    background-color: #730237 !important; /* Newly added color for experiment */
 }
 
 .font-esthetic {
@@ -46,7 +46,7 @@ body {
     inset: 0 !important;
     width: 100%;
     height: 100%;
-    background-color: #741051;
+    background-color: #730237;
     z-index: 1056 !important;
 }
 
