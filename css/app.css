@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    font-family: 'Josefin Sans', sans-serif !important;
+    font-family: 'Poppins', sans-serif !important;
     padding: 0 !important;
     background-color: #730237 !important; /* Newly added color for experiment */
 }
@@ -15,7 +15,7 @@ body {
 }
 
 .font-arabic {
-    font-family: 'Noto Naskh Arabic', serif !important;
+    font-family: 'Poppins', sans-serif !important;
     color: #ffffff !important;
 }
 
